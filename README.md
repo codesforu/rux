@@ -1,4 +1,4 @@
-SaturnIX on Rux
+Rux
 ========
 
 ## Rux, a microkernel written in Rust
