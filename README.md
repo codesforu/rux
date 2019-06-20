@@ -5,7 +5,8 @@ Rux
 
 Rux is a hobbyist microkernel written in Rust by Wei Tang, featuring a
 capability-based system similar to [seL4](https://sel4.systems/).  
-Original Repo and Doc by Wei Tang
+  
+Original Repo and Doc by Wei Tang:
 - [Repository](https://source.that.world/source/rux/)
 - [Documentation](https://that.world/~docs/rux/kernel/)
 
